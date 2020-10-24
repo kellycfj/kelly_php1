@@ -26,7 +26,7 @@
         <i class="fas fa-envelope-square fa-1x" target="_blank" title="E-mail"></i>info@wefly.ie</a></p>';
         echo '<p>Phone:<a href="tel:+353646631545"><i class="fas fa-phone-square-alt"></i>+353 01 100 1000</a></p>';
         echo '<p>WhatsApp:<a href="https://wa.me/3538011001000" target="_blank"><i class="fab fa-whatsapp-square alt"
-        target="_blank" title="WhatsApp"></i>+353 83 393 5904</a></p>';
+        target="_blank" title="WhatsApp"></i>+353 01 100 1000</a></p>';
         echo '<h2>Our Address</h2>';
         echo '<p>Address: Dublin - Ireland</p>';
         ?>

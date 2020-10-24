@@ -28,7 +28,7 @@
   $ca = "CA1 - PHP project";
   $lec="Web Development - John Snel";
 
-  echo "<div class='homeinfo'>Student<br><br>$kelly</div>";
+  echo "<div class='homeinfo'><a href=''></a>Student<br><br>$kelly</div>";
   echo "<div class='homeinfo'>Student number<br><br>$numb</div>";
   echo "<div class='homeinfo'>CA<br><br>$ca</div>";
   echo "<div class='homeinfo'>CCT Dublin College<br><br>$lec</div>";
@@ -38,9 +38,8 @@
   <div class="contentinfo">
     <?php
     echo
-    '<div class="infoframe">
-        <a href="" target="_blank">
-        <img src="../img/XAMPP.png" width="95" height="110" alt="Xampp" title="Using Xampp"></a>
+    '<div class="infoframe">        
+        <img src="../img/XAMPP.png" width="95" height="110" alt="Xampp" title="Web server - Using Xampp">
     </div>
 
     <div class="infoframe">
